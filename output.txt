@@ -1,0 +1,30 @@
+python
+sql
+aws
+english
+java
+etl
+power bi
+big data
+nosql
+snowflake
+cloud
+devops
+databases
+sql server
+machine learning
+spark
+mysql
+oracle
+dax
+ci/cd
+data warehouse
+azure
+kafka
+docker
+linux
+t-sql
+git
+javascript
+airflow
+dwh
